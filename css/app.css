@@ -16,7 +16,7 @@ body {
     text-align: center;
     color: #333;
 }
-#container {
+.container {
     width: 80%;
     padding: 1rem 2rem;
     margin-inline: auto;
