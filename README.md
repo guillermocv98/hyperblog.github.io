@@ -1,4 +1,4 @@
 # hyperblog
-An awesome repositoriy for Platzi´s Git&amp;GitHub course
+An awesome repository for Platzi´s Git&amp;GitHub course
 
 Let´s learn.
